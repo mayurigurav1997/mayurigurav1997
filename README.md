@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am working as a Software Engineer at TCS with 2.4 years of experience in building web applications (using ReactJS, Redux & Javascript)
 
 <!--
 **mayurigurav1997/mayurigurav1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
