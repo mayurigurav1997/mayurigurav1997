@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am working as a Software Engineer at TCS with 2.4 years of experience in building web applications (using ReactJS, Redux & Javascript).
 
 ![Profile views](https://gpvc.arturio.dev/mayurigurav1997)
 
